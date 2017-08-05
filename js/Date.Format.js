@@ -275,7 +275,9 @@
 					return {
 						lunarYear: q,
 						lunarMonth: w,
-						lunarDay: x + 1,
+						lunarDay: x + 0,
+						//XXX 此处农历日偏移好像有点问题，某些时间计算农历日会偏移一天。
+						//农历部分摘抄至百度日历。
 						isLeap: t,
 						isBigMonth: v
 					}
