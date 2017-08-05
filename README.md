@@ -34,3 +34,5 @@
 {tt}    am|pm--------------------------'am'
 {TT}    午夜|凌晨|上午|中午|下午|晚上---'上午'
 ```
+
+[demo](https://zzx18023.github.io/Date.prototype.Format/)
